@@ -1,0 +1,38 @@
+.otpform{
+    align-content: center;
+    width:40%;
+    height:65%;
+    background-color: rgb(242, 204, 210);
+    border:2px solid white;
+    
+    position: absolute;
+    width: 500px;
+    display: block;
+    position: absolute;
+    left:15%;
+    top: 10%;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+} 
+.h3{
+    font-size: large;
+    color: black;
+}
+.text{
+    color: black ;
+}
+.e{
+    color:red
+}
+.close{
+    color:black;
+    background-color: red;
+    width:50px;
+    cursor:pointer;
+    margin: 0;
+    padding: 0;
+    margin-left:90%;
+}

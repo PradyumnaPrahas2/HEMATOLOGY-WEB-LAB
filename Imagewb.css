@@ -1,0 +1,109 @@
+.complete{
+    background-image: url("C:\Users\praha\Downloads\imagebackground.gif");
+    color:white ;
+    width: 100%;
+    height: 100px;
+    width: 100%;
+    height:100vh;
+    font-size: medium;
+    background-size: cover;
+    background-repeat:no-repeat;
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+.Title{
+    font-size: 20px;
+    color: #e22bd6; 
+    
+    text-shadow: 2px 2px rgb(0, 255, 247);
+    font-style: monospace;
+    animation: blinker 5s linear infinite ;
+    cursor: pointer;
+}
+@keyframes blinker {50%{
+    opacity: 0.5;
+}
+}
+.input{
+    color: black;
+    background-color: rgb(13, 235, 194);
+    cursor: pointer;
+    font-family: monospace;
+}
+.button{
+    width:10%;
+    border-radius: 10%;
+    height:25px;
+    color: black;
+    background-color: rgb(202, 235, 13);
+    cursor: pointer;
+    box-shadow: 0 0 5px 5px rgb(145, 255, 0);
+}
+.button12{
+    width:12%;
+    border-radius: 10%;
+    height:25px;
+    color: black;
+    background-color: rgb(13, 209, 235);
+    cursor: pointer;
+    box-shadow: 0 0 5px 5px rgb(0, 238, 255);
+}
+.image{
+    height:100px;
+}
+.inbox{
+    width: 75%;
+    height: 50%;
+    border-color: aqua;
+}
+table, th, td {
+    margin-left: 30%;
+    border: 3px solid;
+    border-color: rgb(13, 13, 13);
+    border-style: solid;
+    width:40%;
+    border-collapse: collapse;
+    margin-top: 5%;
+    height:50px;
+    background-color: rgb(17, 32, 132);
+  }
+.table{
+    width:10%;
+    height: 100%;
+}
+.tetext{
+    width:20%;
+}
+.Result table{
+    background-color: rgb(132, 123, 17);
+    margin-top: 5%;
+    color: rgb(0, 0, 0);
+}
+.na{
+    color: rgb(255, 0, 0);
+}
+.n{
+    color: rgb(255, 0, 0);
+}
+.a{
+    color: #49e22b;
+}
+.bloodcell{
+    border: white;
+    height:200px;
+}
+.feedback{
+    background-image: url("C:\Users\praha\Downloads\imagebackground.gif");
+    color:white ;
+    width: 100%;
+    height: 100px;
+    width: 100%;
+    height:100vh;
+    font-size: medium;
+    background-size: cover;
+    background-repeat:no-repeat;
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
